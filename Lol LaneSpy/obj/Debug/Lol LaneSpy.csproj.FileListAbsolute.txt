@@ -1,0 +1,18 @@
+C:\Users\dmles\Documents\Visual Studio 2015\322\Lol LaneSpy\Lol LaneSpy\bin\Debug\Lol LaneSpy.exe.config
+C:\Users\dmles\Documents\Visual Studio 2015\Projects\Lol LaneSpy\Lol LaneSpy\bin\Debug\Lol LaneSpy.exe.config
+C:\Users\dmles\Documents\Visual Studio 2015\Projects\Lol LaneSpy\Lol LaneSpy\bin\Debug\Lol LaneSpy.exe
+C:\Users\dmles\Documents\Visual Studio 2015\Projects\Lol LaneSpy\Lol LaneSpy\bin\Debug\Lol LaneSpy.pdb
+C:\Users\dmles\Documents\Visual Studio 2015\Projects\Lol LaneSpy\Lol LaneSpy\bin\Debug\ParserEngine.dll
+C:\Users\dmles\Documents\Visual Studio 2015\Projects\Lol LaneSpy\Lol LaneSpy\bin\Debug\Newtonsoft.Json.dll
+C:\Users\dmles\Documents\Visual Studio 2015\Projects\Lol LaneSpy\Lol LaneSpy\bin\Debug\ParserEngine.pdb
+C:\Users\dmles\Documents\Visual Studio 2015\Projects\Lol LaneSpy\Lol LaneSpy\obj\Debug\Lol LaneSpy.csprojResolveAssemblyReference.cache
+C:\Users\dmles\Documents\Visual Studio 2015\Projects\Lol LaneSpy\Lol LaneSpy\obj\Debug\MainWindow.g.cs
+C:\Users\dmles\Documents\Visual Studio 2015\Projects\Lol LaneSpy\Lol LaneSpy\obj\Debug\App.g.cs
+C:\Users\dmles\Documents\Visual Studio 2015\Projects\Lol LaneSpy\Lol LaneSpy\obj\Debug\Lol LaneSpy_MarkupCompile.cache
+C:\Users\dmles\Documents\Visual Studio 2015\Projects\Lol LaneSpy\Lol LaneSpy\obj\Debug\Lol LaneSpy_MarkupCompile.lref
+C:\Users\dmles\Documents\Visual Studio 2015\Projects\Lol LaneSpy\Lol LaneSpy\obj\Debug\MainWindow.baml
+C:\Users\dmles\Documents\Visual Studio 2015\Projects\Lol LaneSpy\Lol LaneSpy\obj\Debug\Lol LaneSpy.g.resources
+C:\Users\dmles\Documents\Visual Studio 2015\Projects\Lol LaneSpy\Lol LaneSpy\obj\Debug\Lol_LaneSpy.Properties.Resources.resources
+C:\Users\dmles\Documents\Visual Studio 2015\Projects\Lol LaneSpy\Lol LaneSpy\obj\Debug\Lol LaneSpy.csproj.GenerateResource.Cache
+C:\Users\dmles\Documents\Visual Studio 2015\Projects\Lol LaneSpy\Lol LaneSpy\obj\Debug\Lol LaneSpy.exe
+C:\Users\dmles\Documents\Visual Studio 2015\Projects\Lol LaneSpy\Lol LaneSpy\obj\Debug\Lol LaneSpy.pdb
